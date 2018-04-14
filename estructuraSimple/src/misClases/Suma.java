@@ -25,6 +25,7 @@ public class Suma {
         System.out.println("Ingrese el segundo numero");
         n2 =numero.nextDouble();
         
+        System.out.println("El resultado de la suma es de: "+n1+n2);
         
         
         
