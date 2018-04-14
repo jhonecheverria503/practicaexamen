@@ -22,6 +22,11 @@ public class Suma {
         System.out.println("Ingrese un numero");
         n1= numero.nextDouble();
         
+        System.out.println("Ingrese el segundo numero");
+        n2 =numero.nextDouble();
+        
+        
+        
         
         
     }
